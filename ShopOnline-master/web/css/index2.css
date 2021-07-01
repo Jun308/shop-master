@@ -1,0 +1,787 @@
+#masthead > div.header-inner.flex-row.container.logo-center.medium-logo-center > div.flex-col.hide-for-medium.flex-right > ul > li.has-dropdown.header-language-dropdown > a > i.image-icon{display:none;}
+.logo-center .flex-left {
+    flex: none !important;
+}
+.header #logo img {
+    margin-top: 42px;
+}
+.off-canvas-left.mfp-ready .mfp-content{background-color: #282828;}
+.nav-sidebar.nav-vertical>li+li {
+    border-top: 0px solid #ececec;
+    padding-left: 28px;
+}
+.off-canvas .nav-vertical>li>a {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.nav>li>a, .nav-dropdown>li>a, .nav-column>li>a {
+    color: #fff;
+    transition: all .2s;
+}
+nav>li>a:hover{color: #d2b573;}
+.chonkhuvuc select{
+background: transparent;
+border: 1px solid #d2b573;
+color: #d2b573;
+-webkit-appearance: menulist;
+    width: 192px;
+    float: right;
+}
+.section-discount{padding-bottom: 100px !important;}
+.discount{
+background: #fff;
+margin-top: -70px;
+/*-webkit-box-shadow: 0px 5px 10px 0px rgba(77,75,77,0.64);
+-moz-box-shadow: 0px 5px 10px 0px rgba(77,75,77,0.64);
+box-shadow: 0px 5px 10px 0px rgba(77,75,77,0.64);*/
+}
+.discount .img-discount{
+   padding: 0;
+}
+.ux-timer span{border-radius: 50%;}
+/**
+.inno-round{
+background: url(http://tocotocotea.com/wp-content/uploads/2018/01/Group-13.png) no-repeat;
+background-position: center;
+background-size: contain;
+}
+*/
+.inno-about{
+    padding-top: 120px !important;
+    padding-bottom: 199px !important;
+}
+.store-map {
+    font-size: 20px;
+    font-family: "Open Sans", serif;
+}
+ul.buywhere{list-style-type: none;}
+ul.buywhere li{
+font-weight: bold;
+
+font-family: "Open Sans", sans-serif;
+}
+/*ul.buywhere li::before{
+content:"\f03b";
+}*/
+.nhuong-quyen .title1{
+font-size: 40px !important;
+font-weight: normal;
+}
+.nhuong-quyen .title2{
+font-family: 'Open Sans', sans-serif;
+font-size: 45px !important; 
+
+}
+.nhuong-quyen p{
+font-family: 'Open Sans', sans-serif;
+
+}
+.nhuong-quyen a.timhieuthem span{
+font-size: 20px;
+font-weight: bold;
+font-family: "Open Sans", sans-serif;
+text-transform: none !important;
+}
+.toco-media .title3{
+font-family: "Andalusia", sans-serif;
+color: #D8B979;
+font-size: 40px;
+text-align:center;
+}
+.toco-media .title4{
+color: #fff !important;
+font-size: 45px;
+text-align:center;
+}
+.title-product-featured{
+color: #fff !important; 
+font-family: "Open Sans", sans-serif !important;
+text-align: center;
+font-size: 45px;
+font-weight: bolder;
+}
+
+/* Video carousel */
+#video-media {
+    min-height: 500px;
+    background-color: #f6f6e6;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+#video-media {
+    font-family: Arial, Geneva, SunSans-Regular, sans-serif;
+    font-size: 14px;
+    color: #333;
+    line-height: 22px;
+}
+#video-3g {
+    width: 900px;
+    height: 400px;
+    margin: -200px 0 0 -450px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+#carousel img {
+    display: block;
+    float: left;
+    border: none;
+    position: relative;
+}
+.motasp{
+    overflow: hidden; 
+    position: relative;
+    padding-bottom: 50px;
+}
+.cacicon i{
+    color: #fff !important;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.cacicon i {
+    padding: 10px;
+    background-color: #D8B979;
+    border-radius: 50%;
+    margin-right: 14px;
+    color: #fff;
+    font-size: 20px;
+    margin-top: 14px;
+}
+
+#hienkq select{
+     width: 100%;
+    height: 287px;
+    overflow-y: scroll; 
+    background: #ECECEC;
+    padding:0;
+
+}
+#hienkq select option{
+    border-bottom: 1px solid #e2e2e3;
+    padding-bottom: 17px;
+    padding-top: 17px;
+    padding-left: 30px;
+    color: #333;
+}
+#hienkq select option[disabled]:hover{
+    color: red;
+    box-shadow: 0 0 10px 100px #e2e2e3 inset;
+}
+#hienkq select option[disabled]{
+    color: red;
+    
+}
+#hienkq select option:hover{
+    color: #fff;
+}
+#hienkq select:checked{
+    color: #fff;
+    background-color: #D8B979;
+    }
+
+/*.float-right {float:right;}*/
+.loc-cua-hang{
+    float: left;
+    /*display: inline-flex;*/
+    width: 100%;
+}
+#xem-cua-hang{
+    padding: 50px 60px 0px;
+    color: #fff;
+    margin: 0;
+    background: transparent;
+    position: relative;
+
+}
+#xem-cua-hang .ten-cua-hang{
+    font-size: 20px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: bold;
+    color: #D8B979;
+}
+#xem-cua-hang .line{
+    color: #fff;
+    font-size: 15px;margin-bottom: 5px;
+
+}
+#xem-cua-hang .book-product-page{
+    text-align: center;
+    margin-top: 20px;
+}
+#xem-cua-hang .book-product-page .book-product-page-act{
+    background: #D8B979;
+    color: #fff;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    padding: 10px 83px;
+    width: 240px;
+    height:40px;
+}
+#cuahang-step3 img{
+    /*transform: scale(2.5);*/
+}
+.view-store{
+    text-align:center;
+}
+.view-store .b-view-store{
+    color: #fff;
+    background: #D8B979;
+    width: 320px;
+    height: 64px;
+    text-transform: unset;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.title-local-store{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.title-local-store-text{
+    margin-bottom: 0px;
+}
+.title-local-store hr{
+    text-align: center;
+    width: 23%;
+    border-top: 2px solid #D8B979;
+    opacity: 1;
+    margin-left: auto;
+    margin-right: auto;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(216, 185, 121);
+    border-right-color: rgb(216, 185, 121);
+    border-bottom-color: rgb(216, 185, 121);
+    border-left-color: rgb(216, 185, 121);
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.loc-cua-hang span{
+    width: 100px;
+    padding: 7px 0;
+    font-size: 15px;
+}
+.loc-cua-hang form{
+    width: 100%;
+}
+
+.chitietsp {
+    padding: 10px 15px !important;
+}
+.cacicon{display:none;}
+.motsp:hover .cacicon{
+    display:block;
+}
+
+.img-local-store{
+    width: auto !important;
+    height: 559px;
+}
+
+.inno-banner-button{
+    width: 268px;
+    height: 64px;
+    font-family: Open Sans;
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 27px !important;
+    padding-top: 15px;
+}
+
+.button-view-all-product, .book-now{
+    width: 320px !important;
+    height: 64px;
+    padding-top: 10px;
+    font-size: 20px !important;
+    text-transform: none !important;
+    margin-top: 8px;
+}
+.inno-home-product{padding-bottom: 16px !important;}
+.l137{padding-left: 30px;}
+.store-map{
+    width: 320px;
+    height: 64px;
+    padding-top: 7px;
+}
+.dat-hang-ngay{
+    color: #fff; 
+    text-align:center;
+}
+#khu-vuc{
+    width: 45%;
+    display: inline-block;
+    margin-top: 13px;
+}
+div#inno-district{
+    width: 53%;
+    display: inline-block;
+}
+.title-dat-hang-ngay{
+    color: #fff !important;
+    font-weight: 900 !important;
+    font-size:  35px !important;
+    font-family: "Andalusia", sans-serif;
+    margin-bottom: 24px;
+}
+.text-dat-hang-ngay{
+    font-size: 18px;
+}
+.book-now span{text-transform: uppercase !important;}
+.title-news-home-left{
+    font-size: 25px !important;
+    font-weight: 900 !important;
+    font-family: "Open Sans", sans-serif !important;
+
+}
+span.read-more-home a{
+    font-size: 18px;
+    font-weight: 900;
+    font-family: "Open Sans",sans-serif;
+}
+
+.sub-header-single{
+    margin: 100px auto 0;
+    text-align: center;
+}
+.sub-header-single h1{
+    color: #D8B979;
+    font-family: "Andalusia", sans-serif;
+    font-size: 45px;
+    text-transform: none;
+    letter-spacing: 5px;
+}
+.sub-header-single p{
+    color: #fff;
+    font-size: 20px;
+}
+.sub-header-single p span{
+    padding: 0 15px;
+}
+.sub-header-single p i{
+     color: #D8B979;
+}
+.sub-header-single p a{
+    color: #fff;
+}
+
+
+
+/* Trang giá» hÃ ng */
+.product-body{
+    margin-left: 125px;
+}
+.product-r{
+    border-bottom: 1px solid rgba(40,40,40,0.1)
+}
+.row.product-r.produc-r-last{
+    border-bottom: 1px solid rgba(40,40,40,0.5);
+    border-top:  1px solid rgba(40,40,40,0.5);
+}
+.product-col{
+    padding: 12px 0 10px;
+}
+.product-r:last-child{
+    border-bottom:none;
+}
+.product-img{
+    width: 96px;
+    height: 104px;
+    object-fit: cover;
+    border: 1px solid rgba(149, 152, 154, 0.3);
+}
+.sua-sp .gia-sp span{
+    cursor: default;
+}
+.product-heading{
+    text-transform: uppercase;
+}
+.option1 {
+    margin: 5px 0;
+}
+.option1 span{
+    padding: 0 40px 0 0;
+}
+
+.qtyminus{
+    background: #000;
+    color: #fff;
+}
+.sua-sp span{
+    color: #d2b573;
+    cursor: pointer;
+    font-size: 15px;
+}
+.sua-sp .gia-sp{
+    font-size: 18px;
+}
+.sua-sp .gia-sp{
+    color: #000;
+    font-weight: 900;
+    margin-top: 24px;
+    font-size: 20px;
+}
+.sua-sp .gia-sp span{
+    color: #222;
+    font-size: 18px;
+    margin-left: -2px;
+}
+.sp-remove{
+    cursor: pointer;
+}
+.nhap-mgg{
+    margin: 10px 0;
+    margin-top: 24px;
+    margin-bottom: 32px;
+}
+.continue-sp{float:right;}
+.col-product-booking{
+    width: 75%;
+}
+.col-thong-tin-kh{ width: 25%;}
+
+#myform {
+    text-align: center;
+    padding: 5px;
+    border: 1px dotted #ccc;
+    margin: 2%;
+}
+.qty {
+    width: 40px;
+    height: 25px;
+    text-align: center;
+}
+input.qtyplus { width:25px; height:25px;}
+input.qtyminus { width:25px; height:25px;}
+.thongtinsp .post-title{
+    min-height: 46px;
+    text-transform: uppercase;
+}
+a.button.primary.btn-sm.notActive {
+    background: #fff;
+    color: #333;
+    border: 1px solid #D8B979;
+}
+.xoa-sp{
+	position: absolute;
+	right: 0px;
+	width: auto;
+    padding-top: 12px;
+}
+img.sp-remove{
+	width: 15px;
+	height: auto;
+}
+.inno-sl input{
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+}
+.inno-sl{
+	padding: 15px 0;
+}
+.inno-sl input.qty{
+	width: 40px;
+    height: 36px;
+	border-radius: 10px;
+	border: 1px solid #282828;
+    font-family: 'Open Sans';
+    font-size:17px;
+	
+}
+.inno-sl input.qtyplus{
+	width: 21px;
+    height: 21px;
+	background: #000;
+	color: #fff;
+	line-height: 10px;
+	min-height: 20px;
+	border-radius: 5px;
+
+}
+.inno-sl input.qtyminus{
+	/* width: 20px; */
+	background: #000;
+	color: #fff;
+	line-height: 10px;
+	min-height: 20px;
+	border-radius: 5px;
+}
+.inno-sl input.qtyplus:hover, .inno-sl input.qtyminus:hover {background: #c0c0c0;}
+.image-container .after {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    display: none;
+    
+}
+.continue-sp{
+    color: #D8B979;
+    margin-top: 30px;
+    margin-right: 36px;
+    font-size: 15px;
+    cursor: pointer;
+}
+.tongcong{
+    text-align: right;
+    padding-right: 16px !important;
+    margin-top: 10px;
+}
+.ttmh{
+    padding: 0 15px 20px;
+}
+.text-total{
+    font-size: 22px;
+    font-weight: 700;
+}
+.total{
+    font-size: 32px;
+    font-weight: 900;
+
+}
+
+.gach {
+    height: 3px;
+    background: #d2b573;
+    text-align: center;
+    width: 70px;
+    margin: 21px auto;
+    margin-top: 40px;
+}
+
+.nhap-mgg .sm_voucher{
+    width: 93px;
+    font-size: 12px;
+    font-family: "Open Sans";
+    height: 31px;
+}
+/* Form next step */
+#regForm {
+  background-color: #ffffff;
+  margin: 0px auto;
+  padding: 00px;
+  width: 100%;
+  min-width: 200px;
+}
+
+/* Style the input fields */
+input {
+  padding: 10px;
+  width: 100%;
+  font-size: 15px;
+  font-family: "Open Sans";
+  border: 1px solid #aaaaaa;
+}
+
+/* Mark input boxes that gets an error on validation: */
+input.invalid {
+  background-color: #ffdddd;
+}
+
+/* Hide all steps by default: */
+.tab {
+  display: none;
+}
+
+/* Make circles that indicate the steps of the form: */
+.step {
+  height: 40px;
+  width: 40px;
+  margin: 0 15px;
+  background-color: #bbbbbb;
+  border: 1px solid #ff0000; 
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+  padding: 7px;
+}
+
+/* Mark the active step: */
+.step.active {
+  opacity: 1;
+  border: 2px solid #ff0000; 
+  background-color: #D8B979;
+}
+
+/* Mark the steps that are finished and valid: */
+.step.finish {
+  background-color: #4CAF50;
+}
+
+
+.nhap-mgg{
+        border: 1px solid #BDBDBD;
+   
+    display: inline-flex;
+    padding: 3px;
+    height: 40px;
+    padding-right: 8px;
+}
+.nhap-mgg input.code-number{
+    max-width: 300px;
+    width: 74%;
+    border:none;
+    box-shadow: none;
+    margin-bottom: 0;
+    height: 31px;
+}
+.nhap-mgg button{
+    background: #ccc;
+    border-radius: 5px;
+    margin-right: 0px;
+    align-items: none;
+    text-align: none;
+    margin-bottom: 0;
+    font-size: 14px;
+    line-height: 0;
+    min-height: 1px;
+    height: 40px;
+    color: #fff;
+}
+.nhap-mgg button:hover{
+    background: #d2b573;
+}
+
+/* Trang san pham */
+.product-popup{
+    margin-left: -22px !important;
+    margin-right: -22px !important;
+    background: #282828;
+}
+.home .modal-content{
+    padding: 0px;
+}
+.modal-content{
+    padding-top: 0 !important;
+}
+.home .product-popup {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    background: #282828;
+}
+.title-popup{
+    display: inline-flex;
+}
+.title-popup .title{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 300;
+    font-family: "Andalusia", sans-serif;
+    color: #d2b573;
+    padding-top: 20px;
+    margin-bottom: 0 !important;
+
+}
+.title-popup span{
+    font-size: 40px;
+    color: #fff;
+}
+
+.popup-content{
+    padding-top: 40px;
+}
+.modal-content h3.product-title{
+    text-align: center;
+    text-transform: uppercase;
+
+    font-size: 24px;
+    color: #222 !important;
+
+}
+.text-option{
+    width: 100px;
+    display: inline-block;
+}
+
+.button-size{
+    line-height: 1.4em;
+}
+
+
+
+
+
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: transparent !important;
+    border: none !important;
+    color: #282828;
+    margin-top: 15px;
+}
+.select2-selection {
+    line-height: 1em;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__rendered li{
+
+}
+
+
+
+.cat-item-61, .cat-item-60{
+    display: none !important;
+}
+
+img.arrow{
+    margin-left:  -25px;
+}
+.img-col2{
+    padding: 0;
+    margin-top: -50px;
+}
+.main-chon-kv{
+    background: #f6f6f6 !important;
+    height: 100%;
+}
+.row-kv h2 {
+    font-weight: 400 !important;
+    font-family: "Andalusia", sans-serif;
+}
+.row-kv p:nth-child(2){
+font-size: 18px !important;
+}
+.title-wellcome{
+    color: #f6f6f6;
+}
+.row-kv a.button.primary span{
+    text-transform: none !important;
+    font-weight: 600;
+}
+@media screen and (max-width: 549px) { 
+    .popup-content{
+        padding-top: 10px;
+    }
+    .thongtinsp .post-title{
+        min-height: 36px;
+        height: 36px;
+        overflow: hidden;
+    }
+    .title-popup span{
+        font-size: 30px;
+    }
+    .modal-content  h3.product-title{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 12px;
+    width: 45%;
+    display: inline-block;
+    color: #282828 !important;
+    }
+    .modal-content  img{
+        width: 50%;
+        display: inline-block;
+    }
+    .select2-container--default .select2-selection--multiple .select2-selection__choice {
+        background-color: transparent !important;
+        border: none !important;
+        color: #282828;
+        margin-top: 5px;
+    }
+    .tongcong{
+        margin-top: 0px;
+    }
+}
